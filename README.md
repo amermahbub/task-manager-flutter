@@ -1,16 +1,3 @@
-# assignmenteight
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230703_212523](https://github.com/amermahbub/task-manager-flutter/assets/110281852/61c6a831-0505-40af-94e6-ff155c32ecf7)
+![Screenshot_20230703_212549](https://github.com/amermahbub/task-manager-flutter/assets/110281852/00384a09-44a3-4161-b9a5-45d4ea7b4280)
+![Screenshot_20230703_212619](https://github.com/amermahbub/task-manager-flutter/assets/110281852/665b2e82-1ebb-445c-ad21-9074445150ab)
